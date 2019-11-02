@@ -1,0 +1,40 @@
+#### 一、安装mocha
+```
+npm install --save-dev mocha
+```
+#### 二、变写测试
+```
+const assert = require('assert');
+import not from "../not"
+describe('测试not方法', function () {
+  it('测试空字符', function () {
+    assert.equal(not(""), true)
+  });
+  it('测试对象', function () {
+    assert.equal(not({}), true)
+  });
+});
+```
+#### 配置package.json
+```
+"scripts": {
+    "test": "mocha --require @babel/register --recursive ./login/test/index.test.js"
+  },
+```
+--recursive:指定mocha运行目录
+--require:指定mocha运行前需要加载的模块
+
+#### 使用esModule规则
+```
+npm install @babel/core @babel/register @babel/preset-env --save-dev
+```
+```
+//.babelrc
+{
+  "presets": [
+    "@babel/preset-env"
+  ]
+}
+```
+
+
