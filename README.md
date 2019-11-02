@@ -7,7 +7,7 @@
     * [url-loader](https://github.com/smallmonsters/Blog/blob/master/201911/url-loader.md)
 ---
 * 小程序
-  
+    * [小程序中设置数组或对象某项的值](https://github.com/smallmonsters/Blog/blob/master/201911/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%B8%AD%E8%AE%BE%E7%BD%AE%E6%95%B0%E7%BB%84%E6%88%96%E5%AF%B9%E8%B1%A1%E6%9F%90%E9%A1%B9%E7%9A%84%E5%80%BC.md)
 ---
 * 个人笔记
     * [Linux常用命令](https://github.com/smallmonsters/Blog/blob/master/201911/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
