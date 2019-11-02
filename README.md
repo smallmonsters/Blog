@@ -8,6 +8,7 @@
 ---
 * 小程序
     * [小程序中设置数组或对象某项的值](https://github.com/smallmonsters/Blog/blob/master/201911/4.md)
+    * [小程序阻止页面滑动](https://github.com/smallmonsters/Blog/blob/master/201911/5.md)
 ---
 * 个人笔记
     * [Linux常用命令](https://github.com/smallmonsters/Blog/blob/master/201911/6.md)
