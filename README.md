@@ -4,7 +4,7 @@
 ## 目录
 * webpack
     * [使用webpack将ES6转化ES5](https://github.com/smallmonsters/Blog/blob/master/201911/%E4%BD%BF%E7%94%A8webpack%E5%B0%86ES6%E8%BD%AC%E5%8C%96ES5.md)
-    * [Linux常用命令](https://github.com/smallmonsters/Blog/blob/master/201911/url-loader.md)
+    * [url-loader](https://github.com/smallmonsters/Blog/blob/master/201911/url-loader.md)
 ---
 * 小程序
   
