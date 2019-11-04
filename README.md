@@ -14,6 +14,7 @@
 * 技能学习
     * [Linux安装node](https://blog.csdn.net/putao2062/article/details/79647597)
     * [Linux 远程登录](https://www.runoob.com/linux/linux-remote-login.html)
+    * [node事件循环](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
 ----
 * 其他
     * [Linux常用命令](https://github.com/smallmonsters/Blog/blob/master/201911/6.md)
