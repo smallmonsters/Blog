@@ -10,13 +10,13 @@
     * [小程序中设置数组或对象某项的值](https://github.com/smallmonsters/Blog/blob/master/201911/4.md)
     * [小程序阻止页面滑动](https://github.com/smallmonsters/Blog/blob/master/201911/5.md)
 ---
+* 笔记思考
+    * [不用加减乘除运算符，求整数的7倍](https://github.com/smallmonsters/Blog/blob/master/201911/8.md)
+---
 * 其他
     * [Linux常用命令](https://github.com/smallmonsters/Blog/blob/master/201911/6.md)
     * [window下上传文件到linux](https://github.com/smallmonsters/Blog/blob/master/201911/7.md)
     * [使用mocha做单元测试](https://github.com/smallmonsters/Blog/blob/master/201911/1.md)
----
-* 笔记思考
-    * [不用加减乘除运算符，求整数的7倍](https://github.com/smallmonsters/Blog/blob/master/201911/8.md)
 ---
 * 技能学习
     * [Linux安装node](https://blog.csdn.net/putao2062/article/details/79647597)
