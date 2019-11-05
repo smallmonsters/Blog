@@ -21,4 +21,5 @@
     * [window下上传文件到linux](https://github.com/smallmonsters/Blog/blob/master/201911/7.md)
     * [使用mocha做单元测试](https://github.com/smallmonsters/Blog/blob/master/201911/1.md)
 ---
-   
+* 笔记思考
+    * [不用加减乘除运算符，求整数的7倍](https://github.com/smallmonsters/Blog/blob/master/201911/8.md)
