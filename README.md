@@ -13,7 +13,6 @@
 * vue
 
     - [vue-cli3使用sass](https://github.com/smallmonsters/Blog/blob/master/201911/9.md)
-    
     - [$attrs的使用](https://github.com/smallmonsters/Blog/blob/master/201911/10.md)
 
 ---
