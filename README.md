@@ -31,19 +31,21 @@
 
 * MySql
     - [window下安装Mysql](https://github.com/smallmonsters/Blog/blob/master/201911/14.md)
-    - [linux CentOS下安装Mysql](https://github.com/smallmonsters/Blog/blob/master/201911/15.md)
+    - [linux CentOS下安装Mysql](https://github.com/smallmonsters/Blog/blob/master/201911/17.md)
 
 * 笔记思考
     - [不用加减乘除运算符，求整数的7倍](https://github.com/smallmonsters/Blog/blob/master/201911/8.md)
     - [使用vue-baidu-map采坑](https://github.com/smallmonsters/Blog/blob/master/201911/13.md)
+    - [javaScript一些不知道的特性](https://github.com/smallmonsters/Blog/blob/master/201911/16.md)
+    - [javaScript一些不知道的特性](https://github.com/smallmonsters/Blog/blob/master/201911/16.md)
 
 ---
 
 * 其他
     - [Linux常用命令](https://github.com/smallmonsters/Blog/blob/master/201911/6.md)
-    - [window下上传文件到linux](https://github.com/smallmonsters/Blog/blob/master/201911/7.md)
+    - [window上传文件到linux](https://github.com/smallmonsters/Blog/blob/master/201911/7.md)
     - [使用mocha做单元测试](https://github.com/smallmonsters/Blog/blob/master/201911/1.md)
-    - [如何在项目中使用eslint](https://github.com/smallmonsters/Blog/blob/master/201911/12.md)
+    - [Linux下安装Git](https://github.com/smallmonsters/Blog/blob/master/201911/18.md)
 
 ---
 
