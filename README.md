@@ -36,7 +36,7 @@
 * 笔记思考
     - [不用加减乘除运算符，求整数的7倍](https://github.com/smallmonsters/Blog/blob/master/201911/8.md)
     - [使用vue-baidu-map采坑](https://github.com/smallmonsters/Blog/blob/master/201911/13.md)
-    - [javaScript一些不知道的特性](https://github.com/smallmonsters/Blog/blob/master/201911/16.md)
+    - [一些编程思路总结](https://github.com/smallmonsters/Blog/blob/master/201911/15.md)
     - [javaScript一些不知道的特性](https://github.com/smallmonsters/Blog/blob/master/201911/16.md)
 
 ---
