@@ -1,0 +1,6 @@
+/* @value blues from "./style1.css"; */
+/* @value blues from colors; */
+.hello {
+  /* color: blues; */
+  color: red;
+}
