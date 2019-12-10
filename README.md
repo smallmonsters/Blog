@@ -19,9 +19,9 @@
 
 ---
 
-* 一些demo
-    - [重新从零学习webpack]（https://github.com/smallmonsters/webpack_study）
-
+* 学习实例
+    - [从零学习webpack](https://github.com/smallmonsters/webpack_study)
+    - [从零学习构架vue](https://github.com/smallmonsters/vue_typescript_practice)
 ---
 
 * vscode
@@ -42,6 +42,7 @@
 
 * git
     - [删除远程仓库的文件](https://github.com/smallmonsters/Blog/blob/master/201912/2.md)
+    - [GitHub一些功能使用](https://github.com/smallmonsters/Blog/blob/master/201912/4.md)
 
 * 笔记思考
     - [不用加减乘除运算符，求整数的7倍](https://github.com/smallmonsters/Blog/blob/master/201911/8.md)
@@ -57,6 +58,8 @@
     - [window上传文件到linux](https://github.com/smallmonsters/Blog/blob/master/201911/7.md)
     - [使用mocha做单元测试](https://github.com/smallmonsters/Blog/blob/master/201911/1.md)
     - [Linux下安装Git](https://github.com/smallmonsters/Blog/blob/master/201911/18.md)
+    - [使用依赖只有安全漏洞,如何更新](https://github.com/smallmonsters/Blog/blob/master/201912/2.md)
+
 
 ---
 
