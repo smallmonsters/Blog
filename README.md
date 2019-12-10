@@ -12,7 +12,7 @@
 
 * vue
 
-    - [vue-cli3使用sass](https://github.com/smallmonsters/Blog/blob/master/201911/9.md)
+    - [vue-cli3常用技能](https://github.com/smallmonsters/Blog/blob/master/201911/9.md)
     - [$attrs的使用](https://github.com/smallmonsters/Blog/blob/master/201911/10.md)
     - [vue+TypeScript采坑记录](https://github.com/smallmonsters/Blog/blob/master/201911/20.md)
     - [使用$attrs和$listeners实现组件](https://github.com/smallmonsters/Blog/blob/master/201912/1.md)
