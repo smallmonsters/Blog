@@ -19,8 +19,8 @@
 
 ---
 
-* 一些demo
-    - [重新从零学习webpack]（https://github.com/smallmonsters/webpack_study）
+* 学习实例
+    - [从零学习webpack](https://github.com/smallmonsters/webpack_study)
 
 ---
 
