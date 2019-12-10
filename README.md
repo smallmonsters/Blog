@@ -40,6 +40,9 @@
     - [window下安装Mysql](https://github.com/smallmonsters/Blog/blob/master/201911/14.md)
     - [linux CentOS下安装Mysql](https://github.com/smallmonsters/Blog/blob/master/201911/17.md)
 
+* git
+    - [删除远程仓库的文件](https://github.com/smallmonsters/Blog/blob/master/201912/2.md)
+
 * 笔记思考
     - [不用加减乘除运算符，求整数的7倍](https://github.com/smallmonsters/Blog/blob/master/201911/8.md)
     - [使用vue-baidu-map采坑](https://github.com/smallmonsters/Blog/blob/master/201911/13.md)
