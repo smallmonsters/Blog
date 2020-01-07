@@ -81,6 +81,7 @@
     - [window上传文件到linux](https://github.com/smallmonsters/Blog/blob/master/201911/7.md)
     - [使用mocha做单元测试](https://github.com/smallmonsters/Blog/blob/master/201911/1.md)
     - [Linux下安装Git](https://github.com/smallmonsters/Blog/blob/master/201911/18.md)
+    - [使用Chrome DevTools 调试ios](https://github.com/smallmonsters/Blog/blob/master/202001/2.md)
     <!-- - [使用依赖只有安全漏洞,如何更新]() -->
 
 ---
