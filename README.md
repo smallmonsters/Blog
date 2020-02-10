@@ -12,7 +12,8 @@
 
 * react
 
-    - [react学习采坑](https://github.com/smallmonsters/Blog/blob/master/201912/5.md)
+    - [react学习之采坑](https://github.com/smallmonsters/Blog/blob/master/201912/5.md)
+    - [搭建React开发环境](https://github.com/smallmonsters/Blog/blob/master/202002/1.md)
 
 ---
 
