@@ -92,6 +92,7 @@
     - [Linux 远程登录](https://www.runoob.com/linux/linux-remote-login.html)
     - [node事件循环](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
     - [巧用JS位运算](https://juejin.im/post/5a9ebc376fb9a028c6753d0e)
+    - [React生命周期](https://blog.bitsrc.io/react-16-lifecycle-methods-how-and-when-to-use-them-f4ad31fb2282)
 
 ----
 
