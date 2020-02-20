@@ -14,7 +14,8 @@
 
     - [react学习之采坑](https://github.com/smallmonsters/Blog/blob/master/201912/5.md)
     <!-- - [搭建React开发环境](https://github.com/smallmonsters/Blog/blob/master/202002/1.md) -->
-    - [react-router-dom组件学习之BrowserRouter](https://github.com/smallmonsters/Blog/blob/master/202002/2.md)
+    - [## react-router-dom组件、API学习（一）](https://github.com/smallmonsters/Blog/blob/master/202002/2.md)
+    - [## react-router-dom组件、API学习（二）](https://github.com/smallmonsters/Blog/blob/master/202002/4.md)
     - [React项目中使用别名无效](https://github.com/smallmonsters/Blog/blob/master/202002/3.md)
 
 ---
