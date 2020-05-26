@@ -4,7 +4,7 @@
 
 ## 索引
 
-<a href="webpack">webpack</a>
+[webpack](webpack)
 
 ## 目录
 
@@ -72,7 +72,7 @@
 
 ---
 
-* git
+* git<a href="webpack">webpack</a>
     - [GitHub一些功能使用](https://github.com/smallmonsters/Blog/blob/master/201912/4.md)
 
 ---
