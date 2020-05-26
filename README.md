@@ -19,7 +19,7 @@
 
 ## 目录
 
-* <a id="wepback">webpack</a>
+* <a id="webpack">webpack</a>
     - [使用webpack将ES6转化ES5](https://github.com/smallmonsters/Blog/blob/master/201911/2.md)
     - [url-loader](https://github.com/smallmonsters/Blog/blob/master/201911/3.md)
 
