@@ -24,7 +24,8 @@
     - [React项目中使用别名无效](https://github.com/smallmonsters/Blog/blob/master/202002/3.md)
     - [useRef 与 createRef](https://github.com/smallmonsters/Blog/blob/master/202003/1.md)
     - [React常用的第三方库](https://github.com/smallmonsters/Blog/blob/master/202002/7.md)
-    - [React Hoock之effect学习总结](https://github.com/smallmonsters/Blog/blob/master/202002/7.md)
+    - [React Hoock知识碎片总结
+](https://github.com/smallmonsters/Blog/blob/master/202005/1.md)
 
 ---
 
