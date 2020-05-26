@@ -8,7 +8,7 @@
 
 ## 目录
 
-* 
+* <a href="webpack">webpack</a>
     - [使用webpack将ES6转化ES5](https://github.com/smallmonsters/Blog/blob/master/201911/2.md)
     - [url-loader](https://github.com/smallmonsters/Blog/blob/master/201911/3.md)
 
@@ -72,7 +72,7 @@
 
 ---
 
-* git<a href="webpack">webpack</a>
+* git
     - [GitHub一些功能使用](https://github.com/smallmonsters/Blog/blob/master/201912/4.md)
 
 ---
@@ -93,7 +93,7 @@
 
 ---
 
-* 其他<span name="webpack">webpack<span>
+* 其他
     - [Linux常用命令](https://github.com/smallmonsters/Blog/blob/master/201911/6.md)
     - [window上传文件到linux](https://github.com/smallmonsters/Blog/blob/master/201911/7.md)
     - [使用mocha做单元测试](https://github.com/smallmonsters/Blog/blob/master/201911/1.md)
