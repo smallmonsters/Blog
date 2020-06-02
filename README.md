@@ -13,6 +13,7 @@
 * [小程序](#小程序)
 * [MySql](#MySql)
 * [JavaScript](#JavaScript)
+* [git](#git)
 * [笔记](#笔记)
 * [其他](#其他)
 * [技能学习](#技能学习)
