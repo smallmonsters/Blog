@@ -4,12 +4,9 @@
 
 ## 索引
 
-[webpack](#webpack)
-
-[React](#React)
-
-[Vue](#vue)
-
+* [webpack](#webpack)
+* [React](#React)
+* [Vue](#vue)
 [TypeScript](#TypeScript)
 
 [实战](#实战)
