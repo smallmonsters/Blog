@@ -7,23 +7,15 @@
 * [webpack](#webpack)
 * [React](#React)
 * [Vue](#vue)
-[TypeScript](#TypeScript)
-
-[实战](#实战)
-
-[vscode](#vscode)
-
-[小程序](#小程序)
-
-[MySql](#MySql)
-
-[JavaScript](#JavaScript)
-
-[笔记](#笔记)
-
-[其他](#其他)
-
-[技能学习](#技能学习)
+* [TypeScript](#TypeScript)
+* [实战](#实战)
+* [vscode](#vscode)
+* [小程序](#小程序)
+* [MySql](#MySql)
+* [JavaScript](#JavaScript)
+* [笔记](#笔记)
+* [其他](#其他)
+* [技能学习](#技能学习)
 
 ## 目录
 
