@@ -86,6 +86,7 @@
 
 * <a id="git">git</a>
     - [GitHub一些功能使用](https://github.com/smallmonsters/Blog/blob/master/201912/4.md)
+    - [git fetch与git pull](https://github.com/smallmonsters/Blog/blob/master/202006/1.md)
 
 ---
 
