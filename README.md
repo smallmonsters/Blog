@@ -114,6 +114,7 @@
     - [Linux下安装Git](https://github.com/smallmonsters/Blog/blob/master/201911/18.md)
     - [使用Chrome DevTools 调试ios](https://github.com/smallmonsters/Blog/blob/master/202001/2.md)
     - [cmd常用命令](https://github.com/smallmonsters/Blog/blob/master/202006/2.md)
+    - [一些常用的npm包](https://github.com/smallmonsters/Blog/blob/master/202007/1.md)
     <!-- - [使用依赖只有安全漏洞,如何更新]() -->
 
 ---
