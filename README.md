@@ -29,7 +29,7 @@
 * <a id="React">React</a>
 
     - [react学习之采坑](https://github.com/smallmonsters/Blog/blob/master/2019/12/5.md)
-    <!-- - [搭建React开发环境](https://github.com/smallmonsters/Blog/blob/master/2020/02/1.md) -->
+    - [搭建React开发环境](https://github.com/smallmonsters/Blog/blob/master/2020/02/1.md)
     - [## react-router-dom组件、API学习（一）](https://github.com/smallmonsters/Blog/blob/master/2020/02/2.md)
     - [## react-router-dom组件、API学习（二）](https://github.com/smallmonsters/Blog/blob/master/2020/02/4.md)
     <!-- - [## react-router-dom组件、API学习（三）](https://github.com/smallmonsters/Blog/blob/master/2020/02/5.md) -->
