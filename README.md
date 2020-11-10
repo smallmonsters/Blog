@@ -13,6 +13,7 @@
 * [小程序](#小程序)
 * [MySql](#MySql)
 * [JavaScript](#JavaScript)
+* [Linux](#Linux)
 * [git](#git)
 * [笔记](#笔记)
 * [其他](#其他)
@@ -80,7 +81,6 @@
 
 * <a id="MySql">MySql</a>
     - [window下安装Mysql](https://github.com/smallmonsters/Blog/blob/master/2019/11/14.md)
-    - [linux CentOS下安装Mysql](https://github.com/smallmonsters/Blog/blob/master/2019/11/17.md)
 
 ---
 
@@ -94,6 +94,14 @@
  - [javaScript一些不知道的特性](https://github.com/smallmonsters/Blog/blob/master/2019/11/16.md)
  - [javaScript一些小技巧](https://github.com/smallmonsters/Blog/blob/master/2020/02/5.md)
 
+---
+* <a id="Linux">Linux</a>
+    - [linux CentOS下安装Mysql](https://github.com/smallmonsters/Blog/blob/master/2019/11/17.md)
+    - [Linux常用命令](https://github.com/smallmonsters/Blog/blob/master/2019/11/6.md)
+    - [window上传文件到linux](https://github.com/smallmonsters/Blog/blob/master/2019/11/7.md)
+    - [Linux下安装Git](https://github.com/smallmonsters/Blog/blob/master/2019/11/18.md)
+    - [Linux安装node](https://blog.csdn.net/putao2062/article/details/79647597)
+    - [Linux 远程登录](https://www.runoob.com/linux/linux-remote-login.html)
 ---
 
 * <a id="笔记">笔记</a>
@@ -112,11 +120,8 @@
 ---
 
 * <a id="其他">其他</a>
-    - [Linux常用命令](https://github.com/smallmonsters/Blog/blob/master/2019/11/6.md)
-    - [window上传文件到linux](https://github.com/smallmonsters/Blog/blob/master/2019/11/7.md)
     - [使用mocha做单元测试](https://github.com/smallmonsters/Blog/blob/master/2019/11/1.md)
-    - [Linux下安装Git](https://github.com/smallmonsters/Blog/blob/master/2019/11/18.md)
-    - [使用Chrome DevTools 调试ios](https://github.com/smallmonsters/Blog/blob/master/202001/2.md)
+    - [使用Chrome DevTools 调试ios](https://github.com/smallmonsters/Blog/blob/master/2020/01/2.md)
     - [cmd常用命令](https://github.com/smallmonsters/Blog/blob/master/2020/06/2.md)
     - [一些常用的npm包](https://github.com/smallmonsters/Blog/blob/master/2020/07/1.md)
     <!-- - [使用依赖只有安全漏洞,如何更新]() -->
@@ -124,8 +129,6 @@
 ---
 
 * <a id="技能学习">技能学习</a>
-    - [Linux安装node](https://blog.csdn.net/putao2062/article/details/79647597)
-    - [Linux 远程登录](https://www.runoob.com/linux/linux-remote-login.html)
     - [node事件循环](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
     - [巧用JS位运算](https://juejin.im/post/5a9ebc376fb9a028c6753d0e)
     - [每个单元测试必须回答的 5 个问题](https://75.team/post/5-questions-every-unit-test-must-answer.html)
