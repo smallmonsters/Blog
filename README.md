@@ -106,6 +106,8 @@
     - [面试总结之笔试篇](https://github.com/smallmonsters/Blog/blob/master/2020/04/2.md)
     - [使用whistle mock](https://github.com/smallmonsters/Blog/blob/master/2020/06/3.md)
     - [使用虚拟机安装Linux](https://github.com/smallmonsters/Blog/blob/master/2020/06/4.md)
+    - [Service worker](https://github.com/smallmonsters/Blog/blob/master/2020/08/service worker/README.md)
+
 
 ---
 
