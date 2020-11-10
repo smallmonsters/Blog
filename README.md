@@ -64,6 +64,8 @@
     - [从零学习webpack](https://github.com/smallmonsters/webpack_study)
     - [从零学习构架vue](https://github.com/smallmonsters/vue_typescript_practice)
     - [js实行原生录像](https://github.com/smallmonsters/js-vidoe)
+    - [fetch学习](https://github.com/smallmonsters/fetch-study)
+    - [npm包开发学习](https://github.com/smallmonsters/npm-study)
     <!-- - [React学习demo集合](https://github.com/smallmonsters/react-demo-gather) -->
 
 ---
