@@ -122,9 +122,9 @@
     <!-- - [看了一些面试题/编程题总结](https://github.com/smallmonsters/Blog/blob/master/2019/11/15.md) -->
 
     - [css Modules学习](https://github.com/smallmonsters/Blog/blob/master/2019/11/19.md)
-    - [面试总结之框架篇](https://github.com/smallmonsters/Blog/blob/master/2020/03/2.md)
+    <!-- - [面试总结之框架篇](https://github.com/smallmonsters/Blog/blob/master/2020/03/2.md)
     - [面试总结之基础篇](https://github.com/smallmonsters/Blog/blob/master/2020/04/1.md)
-    - [面试总结之笔试篇](https://github.com/smallmonsters/Blog/blob/master/2020/04/2.md)
+    - [面试总结之笔试篇](https://github.com/smallmonsters/Blog/blob/master/2020/04/2.md) -->
     - [使用whistle mock](https://github.com/smallmonsters/Blog/blob/master/2020/06/3.md)
     - [使用虚拟机安装Linux](https://github.com/smallmonsters/Blog/blob/master/2020/06/4.md)
     - [Service worker](https://github.com/smallmonsters/Blog/blob/master/2020/08/1.md)
