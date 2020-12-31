@@ -93,6 +93,7 @@
 * <a id="git">git</a>
     - [GitHub一些功能使用](https://github.com/smallmonsters/Blog/blob/master/2019/12/4.md)
     - [git fetch与git pull](https://github.com/smallmonsters/Blog/blob/master/2020/06/1.md)
+    - [git cherry-pick](https://github.com/smallmonsters/Blog/blob/master/2020/12/2.md)
 
 ---
 
