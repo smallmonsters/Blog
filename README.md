@@ -24,7 +24,6 @@
 * <a id="webpack">webpack</a>
     - [使用webpack将ES6转化ES5](https://github.com/smallmonsters/Blog/blob/master/2019/11/2.md)
     - [url-loader](https://github.com/smallmonsters/Blog/blob/master/2019/11/3.md)
-    - [使用webpack搭建一个页面笔记](https://github.com/smallmonsters/Blog/blob/master/2020/11/1.md)
 
 ---
 
