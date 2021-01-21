@@ -67,6 +67,7 @@
     - [js实行原生录像](https://github.com/smallmonsters/js-vidoe)
     - [fetch学习](https://github.com/smallmonsters/fetch-study)
     - [npm包开发学习](https://github.com/smallmonsters/npm-study)
+    - [使用webpack搭建一个页面笔记](https://github.com/smallmonsters/exercises/blob/main/demo/webpack-builc-web-app/note/1.md)
 
     <!-- - [React学习demo集合](https://github.com/smallmonsters/react-demo-gather) -->
 
