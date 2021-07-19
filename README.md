@@ -158,3 +158,4 @@
   - [中高级前端必须注意的 40 条移动端 H5 坑位指南 | 网易三年实践](https://mp.weixin.qq.com/s/921YtuKTJRE-Pz2WF5OQOg)
   - [今天，我要一举拿下Nginx！](https://mp.weixin.qq.com/s/eNKan_yPdbl5nPeSi2mflA)
   - [css技巧](https://mp.weixin.qq.com/s/3At3rOpBBJV_55whfxch-Q)
+  - [10个好用的 HTML5 特性](https://mp.weixin.qq.com/s/I42K28dwIxdOj_jO2FMV4g)
